@@ -13,7 +13,6 @@ ________________________________________________________________________________
 |                            |            |            |            |Booleans    |            |Booleans    |Booleans    |
 |                            |            |            |            |            |            |Pointer     |Pointer     |
 |                            |            |            |            |None        |            |            |None        |
-
 |Non-primitive :: Linear     |            |            |            |Array       |            |            |Array       |
 |                            |            |            |            |List        |            |            |List        |
 |                            |            |            |            |Linked List |            |            |Linked List |
@@ -22,13 +21,11 @@ ________________________________________________________________________________
 |                            |            |            |            |Tuple       |            |            |Tuple       |
 |                            |            |            |            |            |            |            |Channel     |
 |                            |            |            |            |            |            |            |Slice       |
-
 |Non-primitive :: Non-linear |            |            |            |Dictionary  |            |            |Dictionary  |
 |                            |            |            |            |Graphs      |            |            |Graphs      |
 |                            |            |            |            |Set         |            |            |Set         |
 |                            |            |            |            |Trees       |            |            |Trees       |
 |                            |            |            |            |            |            |            |Map         |
-
 |Non-primitive :: Others     |            |            |            |            |            |            |            |
 ___________________________________________________________________________________________________________________________
 # **3. ALGORITHM**
