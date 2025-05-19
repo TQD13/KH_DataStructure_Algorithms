@@ -5,10 +5,9 @@ ________________________________________________________________________________
 # **2. DATA STRUCTURE**
 |Classification              |C           |C++         |C#          |Python      |Java        |Go          |All         |
 |----------------------------|------------|------------|------------|------------|------------|------------|------------|
-
 |Primitive                   |            |            |            |Integer     |            |Integer     |Integer     |
 |                            |            |            |            |Float       |            |Float       |Float       |
-|                            |            |            |            |Complex     |            |Float       |Float       |
+|                            |            |            |            |Complex     |            |Complex     |Complex     |
 |                            |            |            |            |String      |            |String      |String      |
 |                            |            |            |            |Booleans    |            |Booleans    |Booleans    |
 |                            |            |            |            |            |            |Pointer     |Pointer     |
